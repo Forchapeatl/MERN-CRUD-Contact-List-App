@@ -1,4 +1,4 @@
-# MERN STACK CRUD APP
+# MERN CRUD Contact List APP
 
 Hi! I'm Debjit, a **MERN Stack Developer**. This is a simple **REALTIME CRUD** App.
 I have created it with **React JS** in frontend, **Node.js, Express.js** in backend and **MongoDB** for storing data.
