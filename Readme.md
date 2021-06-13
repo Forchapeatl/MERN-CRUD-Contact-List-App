@@ -1,6 +1,6 @@
 # MERN CRUD Contact List APP
 
-Hi! I'm Debjit, a **MERN Stack Developer**. This is a simple **REALTIME CRUD** App.
+Hi! I'm PEARL , a **MERN Stack Developer**. This is a simple **REALTIME CRUD** App.
 I have created it with **React JS** in frontend, **Node.js, Express.js** in backend and **MongoDB** for storing data.
 <br>
 
@@ -22,6 +22,15 @@ I have created it with **React JS** in frontend, **Node.js, Express.js** in back
 - Express
 - Cors
 - Nodemon
+
+##  INSTALLATION OF FRONTEND
+- cd crud-frontend
+  - npm install
+  - npm run start 
+##  INSTALLATION OF BACKEND
+- cd crud-backend
+  - npm install
+  - npm run start 
 
 ## Screenshots
 
