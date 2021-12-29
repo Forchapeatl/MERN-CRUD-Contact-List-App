@@ -36,7 +36,7 @@ app.use("/users", userRouter);
 
 const socketIo = new io.Server(server, {
     cors: {
-        origin: "http://localhost:3000",
+        origin: "https://merncr.herokuapp.com",
         credentials: true
     }
 });;
